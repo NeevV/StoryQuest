@@ -1,7 +1,6 @@
 # StoryQuest
 
-Overview
-This StoryQuest game is a Java-based, interactive text adventure where players make decisions that impact their stats and determine the storyline's progression.
+A Java-based, interactive text adventure where players make decisions that impact their stats and determine the storyline's progression.
 
 Object-Oriented Programming (OOP):
 - Encapsulation; Player stats and game logic encapsulated in the StoryMode class.
